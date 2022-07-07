@@ -13,7 +13,7 @@
 ![C](https://img.shields.io/badge/-C-1572B6?style=flat&logo=c&logoColor=white)
 ![CPP](https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-blue?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&logoColor=white)
 

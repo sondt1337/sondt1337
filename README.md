@@ -5,4 +5,3 @@
 - :computer: I’m taking classes on Computer Engineering 
 - My username in CTF is "Spid3r" :spider:
 - :black_nib: [My blog](https://iamironman1233.github.io/) :pencil2:
-- 

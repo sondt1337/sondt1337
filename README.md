@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Languages and Tools
 
-#### Languages:
+#### Languages: 
 ![C](https://img.shields.io/badge/-C-1572B6?style=flat&logo=c&logoColor=white)&nbsp;
 ![CPP](https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -19,7 +19,5 @@
 ![Python](https://img.shields.io/badge/-python-blue?style=flat&logo=python&logoColor=white)
 
 #### Tools:
-##### Version Control: ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&logoColor=white)
+##### Version Control: ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp; ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)&nbsp; ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&logoColor=white)
 

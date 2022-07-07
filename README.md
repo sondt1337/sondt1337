@@ -11,5 +11,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![C](https://img.shields.io/badge/-C-1572B6?style=flat&logo=c)
-![CPP](https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c++)
-![PYTHON](https://img.shields.io/badge/-PYTHON-1572B6?style=flat&logo=py)
+![CPP](https://img.shields.io/badge/-c++-1572B6?style=flat&logo=c%2B%2B)
+![PYTHON](https://img.shields.io/badge/-python-1572B6?style=flat&logo=py)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket)
+

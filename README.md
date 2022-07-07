@@ -1,6 +1,6 @@
 ### Hello, i'm **Thai Son** :wave: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamironman1233&layout=compact&theme=tokyonight)](https://github.com/iamironman1233/github-readme-stats) ![](https://octodex.github.com/images/daftpunktocat-guy.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamironman1233&layout=compact&theme=tokyonight)](https://github.com/iamironman1233/github-readme-stats) 
 - :student: I’m studying at **Hanoi University of Science & Technology** (**HUST**) 
 - :computer: I’m taking classes on **Computer Engineering**
 - I'm a member of 2 clubs: **BKSec** & **SOICT Innovation Club** (**SINNO**) 

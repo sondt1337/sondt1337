@@ -11,5 +11,5 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![C](https://img.shields.io/badge/-C-1572B6?style=flat&logo=c)
-![CPP](https://img.shields.io/badge/-CPP-1572B6?style=flat&logo=cpp)
+![CPP](https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c++)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-1572B6?style=flat&logo=py)

@@ -19,5 +19,5 @@
 ![Python](https://img.shields.io/badge/-python-blue?style=flat&logo=python&logoColor=white)
 
 #### Tools:
-##### Version Control: ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp; ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)&nbsp; ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp; ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)&nbsp; ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&logoColor=white)
 

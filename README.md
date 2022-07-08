@@ -1,6 +1,6 @@
 ### Hello, i'm **Thai Son** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamironman1233&layout=compact&theme=algolia)](https://github.com/iamironman1233/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamironman1233&layout=compact&theme=algolia)](https://github.com/iamironman1233/github-readme-stats)![Son Dinh Thai](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia)
 
 - :student: I’m studying at **Hanoi University of Science & Technology** (**HUST**) and I’m taking classes on **Computer Engineering** :computer: 
 - I'm a member of 2 clubs: [**BKSec**](https://www.facebook.com/atttbkhn) & [**SOICT Innovation Club** (**SINNO**)](https://www.facebook.com/SINNOclub) 

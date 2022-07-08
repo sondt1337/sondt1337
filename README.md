@@ -1,6 +1,6 @@
 ### Hello, i'm **Thai Son** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamironman1233&layout=compact&theme=algolia)](https://github.com/iamironman1233/github-readme-stats)![Son Dinh Thai](https://github-readme-stats.vercel.app/api?username=iamironman1233&show_icons=true&theme=algolia)
+![Son Dinh Thai](https://github-readme-stats.vercel.app/api?username=iamironman1233&show_icons=true&theme=algolia)
 
 - :student: I’m studying at **Hanoi University of Science & Technology** (**HUST**) and I’m taking classes on **Computer Engineering** :computer: 
 - I'm a member of 2 clubs: [**BKSec**](https://www.facebook.com/atttbkhn) & [**SOICT Innovation Club** (**SINNO**)](https://www.facebook.com/SINNOclub) 
@@ -9,6 +9,8 @@
 
 ### 👨‍💻 Languages and Tools
 #### Languages: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamironman1233&layout=compact&theme=algolia)](https://github.com/iamironman1233/github-readme-stats)
+
 ![C](https://img.shields.io/badge/-C-1572B6?style=flat&logo=c&logoColor=white)&nbsp;
 ![CPP](https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Csharp](https://img.shields.io/badge/-C%23-purple?style=flat&logo=csharp&logoColor=white)&nbsp;

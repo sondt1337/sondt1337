@@ -2,7 +2,7 @@
 
 ![Son Dinh Thai](https://github-readme-stats.vercel.app/api?username=iamironman1233&show_icons=true&theme=algolia)
 
-- :student: I’m studying at **Hanoi University of Science & Technology** (**HUST**) and I’m taking classes on **Computer Engineering** :computer: 
+- :student: I’m studying at **Hanoi University of Science & Technology** (**HUST**) and I’m taking classes in **Computer Engineering** :computer: 
 - I'm a member of 2 clubs: [**BKSec**](https://www.facebook.com/atttbkhn) & [**SOICT Innovation Club** (**SINNO**)](https://www.facebook.com/SINNOclub) 
 - My username in CTF is **Spid3r** :spider:
 - :black_nib: [My blog](https://iamironman1233.github.io/) :pencil2:

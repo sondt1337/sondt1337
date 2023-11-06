@@ -2,4 +2,6 @@
 
 
 - :student: I’m studying at **Hanoi University of Science & Technology** (**HUST**) and I’m taking classes in **Computer Engineering** :computer: 
-- My username in CTF is **Spid3r** :spider:
+- :spider: I participate in CTF competitions, focusing on Reverse Engineering, Binary Exploitation and Digital Forensics. I’ll use this site to share writeups of CTFs or post articles related to cybersecurity.
+
+You can find me at [Telegram](https://t.me/vepio) (or [Facebook](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for fun).

@@ -8,7 +8,7 @@
 - :student: I’m studying at **Hanoi University of Science & Technology** (**HUST**) and I’m taking classes in **Computer Engineering** :computer:. Additionally, I am currently employed in the field of reverse malware at [company’s secret name] and BKSEC.
 - :spider: I participate in CTF competitions, focusing on Reverse Engineering, Binary Exploitation and Digital Forensics. I’ll use this github to share writeups of CTFs or post articles related to cybersecurity & my project.
 
-You can find me at [Telegram](https://t.me/vepio) (or [Facebook](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for fun).
+You can find me at [Telegram](https://t.me/spid3r1337) (or [Facebook](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for fun).
 
 ![Son Dinh Thai's GitHub stats](https://github-readme-stats.vercel.app/api?username=spid3r1337&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spid3r1337&layout=compact\&theme=radical)

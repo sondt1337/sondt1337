@@ -10,6 +10,6 @@
 
 You can find me at [Telegram](https://t.me/spid3r1337) (or [Facebook](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for fun).
 
-![Son Dinh Thai's GitHub stats](https://github-readme-stats.vercel.app/api?username=spid3r1337&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spid3r1337&layout=compact&theme=radical&hide=html,css,scss)
+![Son Dinh Thai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondt1337&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondt1337&layout=compact&theme=radical&hide=html,css,scss)
 
